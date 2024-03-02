@@ -1,0 +1,226 @@
+body{
+    background-image: url('https://vodakrasna.com/wp-content/uploads/2021/01/Voda-Krasna-Beach-Sunrise-41-copy-scaled.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+
+  header {
+    background-color: #149262;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header-content img {
+    width: 100px; 
+    height: auto;
+    border-radius: 50%; 
+    margin-right: 10px;
+  }
+  
+  .header-content h1 {
+    font-size: 24px; 
+  }
+  
+  nav {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px; 
+  }
+  
+  nav a.active {
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .hero img {
+    width: 100%; 
+  }
+  
+  .hero h2 {
+    margin-top: 20px;
+    font-size: 28px; 
+  }
+  
+  .hero p {
+    font-size: 16px; 
+  }
+  
+  .highlights {
+    margin-top: 40px;
+  }
+  
+  .highlights h2 {
+    text-align: center;
+    font-size: 24px; 
+  }
+  
+  .highlight-card {
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .highlight-card img {
+    width: 100%; 
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .highlight-card h3 {
+    font-size: 20px; 
+  }
+  
+  .highlight-card p {
+    font-size: 16px; 
+  }
+  
+  .highlight-card a {
+    display: inline-block;
+    background-color: #159f6f;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  highlight-card a:hover {
+    background-color: #1b976a;
+  }
+  .hero{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    color: #ffffff;
+  }
+  .hero {
+    text-align: center;
+  }
+  
+  .hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .hero img {
+    width: 100px; 
+    height: auto;
+    border-radius: 50%; 
+    margin-right: 10px;
+  }
+  
+  .hero-text {
+    margin-left: 20px; 
+  }
+
+/* CSS */
+img {
+    float: left;
+    width: 100px;
+    height: auto;
+    box-sizing: border-box; /* Include the border in the width and height */
+    margin-right: 30px; /* Increase the margin-right to add more spacing */
+  }
+  
+  .hero {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    color: #ffffff;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-content {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .email-container {
+    overflow: hidden; 
+  }
+  
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+.about-alcoy p{
+    color: #ffffff;
+    text-align: justify;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 110px; 
+    width: 90px;
+    height: 30px; 
+    
+  }
+  
+  
+  .button:hover {
+    background-color: #99EE99;
+  }
+
+   
